@@ -57,3 +57,10 @@ _ReSharper*/
 
 #kubernetes deployment
 !deployment/*
+
+*.suo
+*.user
+_ReSharper.*
+bin
+obj
+packages

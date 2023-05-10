@@ -57,3 +57,5 @@ _ReSharper*/
 
 #kubernetes deployment
 !deployment/*
+*.suo
+*.user
